@@ -4,3 +4,9 @@
 .fa-stack:hover .num {
   color: #fff;
 }
+.active .fa-circle {
+  color: #94a3b8;
+}
+.active .num {
+  color: #fff;
+}
